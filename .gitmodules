@@ -1,0 +1,3 @@
+[submodule "qfieldcloud_gis-e6010"]
+	path = qfieldcloud_gis-e6010
+	url = https://github.com/gis-e6010-qfieldcloud/qfieldcloud_gis-e6010.git
